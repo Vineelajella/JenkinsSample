@@ -1,4 +1,4 @@
 public class Demo{
   public static void main(String[] args){
-    System.ou.println("welcome to jenkis");
+    System.out.println("welcome to jenkis");
   }}
